@@ -10,8 +10,11 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "cjs-loader": "^0.1.0",
     "expo": "~43.0.2",
     "expo-status-bar": "~1.1.0",
+    "nice-try": "^3.0.0",
+    "npm-which": "^3.0.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
